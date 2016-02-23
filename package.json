@@ -1,0 +1,22 @@
+{
+  "name": "sunrise",
+  "version": "1.0.0",
+  "description": "Wake up to natural light by opening your curtains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmcfadden/SunRise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmcfadden/SunRise/issues"
+  },
+  "homepage": "https://github.com/pmcfadden/SunRise#readme",
+  "dependencies": {
+    "johnny-five": "^0.9.25"
+  }
+}
